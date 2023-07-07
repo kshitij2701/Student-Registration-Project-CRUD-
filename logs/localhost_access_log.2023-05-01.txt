@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [01/May/2023:12:15:52 +0530] "GET /registration_project/Register.html HTTP/1.1" 404 789
+0:0:0:0:0:0:0:1 - - [01/May/2023:12:16:01 +0530] "GET / HTTP/1.1" 200 11430
+0:0:0:0:0:0:0:1 - - [01/May/2023:12:16:47 +0530] "GET /registration%20project/src/main/webapp/display.jsp HTTP/1.1" 200 1052
+0:0:0:0:0:0:0:1 - - [01/May/2023:12:16:59 +0530] "GET /registration%20project/src/main/webapp/Register.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [01/May/2023:14:21:56 +0530] "POST /registration%20project/src/main/webapp/register.jsp HTTP/1.1" 200 490
+0:0:0:0:0:0:0:1 - - [01/May/2023:14:21:58 +0530] "GET /registration%20project/src/main/webapp/display.jsp HTTP/1.1" 200 1960
+0:0:0:0:0:0:0:1 - - [01/May/2023:14:22:04 +0530] "GET /registration%20project/src/main/webapp/updatePage.jsp?u=qwer@gmail.com HTTP/1.1" 200 4634
+0:0:0:0:0:0:0:1 - - [01/May/2023:14:23:17 +0530] "POST /registration%20project/src/main/webapp/editData.jsp HTTP/1.1" 200 445
+0:0:0:0:0:0:0:1 - - [01/May/2023:14:23:18 +0530] "GET /registration%20project/src/main/webapp/display.jsp HTTP/1.1" 200 1970
+0:0:0:0:0:0:0:1 - - [01/May/2023:14:23:30 +0530] "GET /registration%20project/src/main/webapp/deleteData.jsp?d=qwer@gmail.com HTTP/1.1" 200 446
+0:0:0:0:0:0:0:1 - - [01/May/2023:14:23:31 +0530] "GET /registration%20project/src/main/webapp/display.jsp HTTP/1.1" 200 1052

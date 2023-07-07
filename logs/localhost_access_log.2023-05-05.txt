@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [05/May/2023:11:41:35 +0530] "GET /Servlet_Project_1/First HTTP/1.1" 404 778
+0:0:0:0:0:0:0:1 - - [05/May/2023:11:42:27 +0530] "GET /Servlet_Project_1/src/main/java HTTP/1.1" 404 794
+0:0:0:0:0:0:0:1 - - [05/May/2023:11:42:39 +0530] "GET /Servlet_Project_1/src/main/java HTTP/1.1" 404 794
+0:0:0:0:0:0:0:1 - - [05/May/2023:11:44:14 +0530] "GET /Servlet_Project_1/First HTTP/1.1" 404 778
+0:0:0:0:0:0:0:1 - - [05/May/2023:13:54:52 +0530] "GET /registration%20project/src/main/webapp/Register.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [05/May/2023:13:55:39 +0530] "GET /servlet_1/src/main/webapp/form.html HTTP/1.1" 200 675
+0:0:0:0:0:0:0:1 - - [05/May/2023:13:55:43 +0530] "GET /servlet_1/src/main/webapp/form.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [05/May/2023:13:55:52 +0530] "POST /servlet_1/src/main/webapp/RegistrationServlet HTTP/1.1" 404 812
+0:0:0:0:0:0:0:1 - - [05/May/2023:13:57:03 +0530] "POST /servlet_1/src/main/webapp/RegistrationServlet HTTP/1.1" 404 812
+0:0:0:0:0:0:0:1 - - [05/May/2023:15:32:56 +0530] "GET /DemoServlet/ HTTP/1.1" 404 767
+0:0:0:0:0:0:0:1 - - [05/May/2023:15:33:32 +0530] "GET /DemoServlet/input.html HTTP/1.1" 404 777
+0:0:0:0:0:0:0:1 - - [05/May/2023:15:33:50 +0530] "GET /DemoServlet/src/main/webapp/input.html HTTP/1.1" 200 274
+0:0:0:0:0:0:0:1 - - [05/May/2023:15:33:57 +0530] "GET /DemoServlet/src/main/webapp/HelloServlet?t1=kshitij HTTP/1.1" 404 807

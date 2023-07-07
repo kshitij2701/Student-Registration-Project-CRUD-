@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Emp Data</title>
+  <style>
+    td, th {
+      padding: 15px;
+    }
+
+    body {
+      background-color: #f2f2f2;
+      font-family: Arial, sans-serif;
+    }
+
+    h3 {
+      text-align: center;
+    }
+
+    table {
+      width: 50%;
+      margin: 0 auto;
+      border-collapse: collapse;
+      border: 1px solid #ddd;
+    }
+
+    td {
+      padding: 5px;
+      border: 1px solid #ddd;
+    }
+
+    input[type="text"], select, textarea {
+      width: 80%;
+      padding: 8px;
+      margin: 6px 0;
+      box-sizing: border-box;
+      border: 2px solid #ccc;
+      border-radius: 4px;
+      background-color: #f8f8f8;
+      font-size: 14px;
+      resize: none;
+    }
+
+    input[type="radio"] {
+      margin: 8px 0;
+    }
+
+    button[type="submit"], button[type="reset"] {
+      background-color: #4CAF50;
+      color: white;
+      padding: 12px 20px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      margin-top: 15px;
+      margin-right: 15px;
+    }
+
+    button[type="submit"]:hover {
+      background-color: #45a049;
+    }
+
+    button[type="reset"]:hover {
+      background-color: #f44336;
+    }
+
+    .form-buttons {
+      text-align: center;
+    }
+  </style>
+</head>
+
+<body>
+  <h3>Add New Employee  For Section B</h3>
+
+  <form action="register.jsp" method="post" name="form" onsubmit="return validateForm()">
+    <table>
+      <tr>
+        <td>NAME</td>
+        <td><input type="text" name="Name" maxlength="30" required /></td>
+      </tr>
+      <tr>
+        <td>Password</td>
+        <td><input type="text" name="Password" maxlength="20" required /></td>
+      </tr>
+      <tr>
+        <td>EMAIL</td>
+        <td><input type="email" name="Email" maxlength="30" required /></td>
+      </tr>
+      <tr><td>Country:</td><td>  
+        <select name="Country" style="width:150px">  
+        <option>India</option>  
+        <option>USA</option>  
+        <option>UK</option>  
+        <option>Other</option>  
+        </select>  
+      </td>
+      </tr> 
+      
+    </table>
+
+    <div class="form-buttons">
+      <button type="submit">Submit</button>
+      <button type="reset">Reset</button>
+    </div>
+  </form>
+
+  
+</body>
+</html>
+

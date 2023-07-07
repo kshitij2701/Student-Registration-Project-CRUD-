@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [04/May/2023:05:18:10 +0530] "GET /jsp%20register/src/main/webapp/register.html HTTP/1.1" 200 921
+0:0:0:0:0:0:0:1 - - [04/May/2023:05:22:57 +0530] "GET /jsp%20register/src/main/webapp/Register.jsp?name=Kshitij+Shishodia&fname=Satish+&mname=Savita&email=kshitij.20b0101046%40abes.ac.in&mno=9354709385&gender=male&address=H.no+-+91%2C+Bhoor+bharat+nagar%2C HTTP/1.1" 200 383
+0:0:0:0:0:0:0:1 - - [04/May/2023:05:36:06 +0530] "GET /registration%20project/src/main/webapp/Register.html HTTP/1.1" 200 8360
+0:0:0:0:0:0:0:1 - - [04/May/2023:05:38:08 +0530] "GET /jsp%20register/src/main/webapp/Register.jsp?name=Kshitij+Shishodia&fname=Satish+&mname=Savita&email=kshitij.20b0101046%40abes.ac.in&mno=9354709385&gender=male&address=H.no+-+91%2C+Bhoor+bharat+nagar%2C HTTP/1.1" 200 383
+0:0:0:0:0:0:0:1 - - [04/May/2023:05:59:56 +0530] "POST /registration%20project/src/main/webapp/register.jsp HTTP/1.1" 200 490
+0:0:0:0:0:0:0:1 - - [04/May/2023:05:59:59 +0530] "GET /registration%20project/src/main/webapp/display.jsp HTTP/1.1" 200 2014
+0:0:0:0:0:0:0:1 - - [04/May/2023:06:06:58 +0530] "GET /registration%20project/src/main/webapp/updatePage.jsp?u=kshitij.20b0101046@abes.ac.in HTTP/1.1" 200 4658
+0:0:0:0:0:0:0:1 - - [04/May/2023:06:08:42 +0530] "POST /registration%20project/src/main/webapp/editData.jsp HTTP/1.1" 200 445
+0:0:0:0:0:0:0:1 - - [04/May/2023:06:08:44 +0530] "GET /registration%20project/src/main/webapp/display.jsp HTTP/1.1" 200 2020
+0:0:0:0:0:0:0:1 - - [04/May/2023:06:41:10 +0530] "GET /registration%20project/src/main/webapp/display.jsp HTTP/1.1" 200 2020
+0:0:0:0:0:0:0:1 - - [04/May/2023:06:41:12 +0530] "GET /jsp%20register/src/main/webapp/register.html HTTP/1.1" 200 921
+0:0:0:0:0:0:0:1 - - [04/May/2023:06:41:21 +0530] "POST /registration%20project/src/main/webapp/editData.jsp HTTP/1.1" 200 445
+0:0:0:0:0:0:0:1 - - [04/May/2023:06:41:21 +0530] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [04/May/2023:06:41:21 +0530] "GET /registration%20project/src/main/webapp/display.jsp HTTP/1.1" 200 2020
+0:0:0:0:0:0:0:1 - - [04/May/2023:06:41:32 +0530] "GET /registration%20project/src/main/webapp/Register.html HTTP/1.1" 200 8360
